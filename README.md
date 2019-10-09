@@ -44,7 +44,9 @@ CPU：[Intel i9 9900K](https://ark.intel.com/content/www/us/en/ark/products/1866
 
 
 
-## ![Hackintosh-i9 2019-03-15](https://gewill.org/assets/Hackintosh-i9 2019-03-15.png)总结
+![Hackintosh-i9 2019-03-15](https://gewill.org/assets/Hackintosh-i9 2019-03-15.png)
+
+## 总结
 
 1. 小兵教程很好用。
 2. 就是一直卡在 BIOS 部分，所以无论做什么努力的都没有效果。所以购买主板一定要看 tonymacx86.com 的 [Buyer's Guide](https://www.tonymacx86.com/buyersguide/building-a-customac-hackintosh-the-ultimate-buyers-guide/) 和网友的成功贴。我只之前微星 Z170A M3 安装黑苹果成功，就想当然的买了微星的这块主板。活生生的因为 BIOS 问题，至少1个月的安装时间浪费了。
