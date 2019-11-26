@@ -44,7 +44,7 @@ CPU：[Intel i9 9900K](https://ark.intel.com/content/www/us/en/ark/products/1866
 
 
 
-![Hackintosh-i9 2019-03-15](https://gewill.org/assets/Hackintosh-i9 2019-03-15.png)
+![Hackintosh-i9 2019-03-15](https://gewill.org/assets/Hackintosh-i9%202019-03-15.png)
 
 ## 总结
 
